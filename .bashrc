@@ -10,7 +10,7 @@ alias ...="cd ../.."
 
 # Git commands
 alias gs="git status -sb"
-alias gfa="git fetch -A"
+alias gfa="git fetch --all"
 alias gaa="git add -A"
 alias gc="git commit -m"
 alias gcc="git checkout"
