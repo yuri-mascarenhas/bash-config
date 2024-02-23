@@ -2,6 +2,7 @@
 alias ll="ls -lh"
 alias la="ls -lha"
 alias lt="ls -lhta"
+alias rmrf="rm -rf"
 alias repos="cd /d/Repos"
 alias bash-config="cd /d/Repos/bash-config"
 alias ..="cd .."
